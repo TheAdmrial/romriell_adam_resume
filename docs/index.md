@@ -21,11 +21,17 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - BYUI Data Science Society Group Member
 
 ## Tools
-Competent: <right>Basic</right>
-- R         <right>-Power BI</right>
-- Python    <right>-Tableau</right>
-- SQL       <right>-Microsoft Office</right>
+Competent: 
+- R         
+- Python    
+- SQL       
 - Excel
+
+Basic:
+-Power BI
+-Tableau
+-Microsoft Office
+
 
 ## Related Experience
 
