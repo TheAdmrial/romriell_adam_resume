@@ -15,20 +15,21 @@ title: Adam Romriell's Resume
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2016 - Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
+- BS, Data Science - Accounting Minor
+- BYUI Data Science Society Group Member
 
-- 4.0 Major GPA
-
+## Tools
+Competent: <right>Basic</right>
+- R         <right>-Power BI</right>
+- Python    <right>-Tableau</right>
+- SQL       <right>-Microsoft Office</right>
+- Excel
 
 ## Related Experience
 
-### Internships
+### Work Experience
 
 `January 2028 - June 2028`
 __Pacific Northwest National Lab__, Richland, WA
