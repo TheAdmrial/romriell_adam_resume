@@ -27,10 +27,10 @@ Competent:
 - SQL       
 - Excel
 
-Basic:
+<!--Basic:
 - Power BI
 - Tableau
-- Microsoft Office
+- Microsoft Office-->
 
 
 ## Related Experience
