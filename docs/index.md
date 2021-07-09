@@ -28,9 +28,9 @@ Competent:
 - Excel
 
 Basic:
--Power BI
--Tableau
--Microsoft Office
+- Power BI
+- Tableau
+- Microsoft Office
 
 
 ## Related Experience
