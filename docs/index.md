@@ -33,63 +33,58 @@ Basic:
 - Microsoft Office
 
 
-## Related Experience
+## Work Experience
 
-### Work Experiences
+### Data Analyst
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Apr 2021 - Present`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Assisted in formatting Power BI reports to make the presentation of data intuitive
+- Researched methods to automate data gathering processes using web scraping packages in R and functions to make a more efficient program
+- Prioritized tasks for different projects to get them finished before established deadlines
 
-### Data Science Lead
+### Delivery Driver
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`Jan 2021 - Present`
+__Mrs. Powell's Bakery__, Rexburg, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Delivered fresh-baked goods and raw ingredients Monday – Saturday promptly to stores and vendors
+- Managed the maintenance of the delivery van in order to avoid preventable car troubles
+- Communicated with store managers about what goods to deliver, who will receive them, and when the items need to be delivered
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+## Experiential Learning Projects
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+### Student Data Analyst
 
-### Data Science Consulting Team
+`May 2021 - June 2021`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Contributed to a report-making program which provides teachers to effectively evaluate courses that are being taught
+- Created a dynamic visual based on a wireframe that shows the course rating for the last 5 semesters 
+- Coordinated with various coworkers to effectively work and produce a working product in 4 – 5 weeks
+- Reduced the amount of time to create similar reports from about 2 weeks to 2 – 3 days
+- Learned and applied officeR, an R package, to attach visuals made in R to a word document
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+### Statistical Consultant
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+`Mar 2021 - Mar 2021`
+__Mrs. Powell's Bakery__, Rexburg, ID
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
+- Identified, through statistical tests, that adding a breakfast menu helped the business weather the pandemic despite a significant decrease in sales
+- Wrangled available user data into a workable format to perform a paired samples t-test, a Wilcoxon signed-rank test, and a linear regression
+- Compiled a succinct report explaining the analysis and breaking down complex statistical processes for the business owner
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Service
+
+`2014-2016`
+__Service Missionary__, Yekaterinburg, Russia
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2021 -->
 
 
