@@ -12,20 +12,26 @@ title: Adam Romriell's Resume
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
+<!--If you aren’t getting first interviews it is not you it is your resume.-->
+
+<!--
+Try this approach to bullet points. 
+- Why/Purpose:  Company needed data structures automated
+- Tools:  Used SQL and Python with Pandas to build standardized pipeline.
+- Benefits: Saved company 25 man hours a week with process.  Created 1 million in revenue.-->
 
 ## Education
 
-`2016 - Expected 2022`
+`Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 - BS, Data Science - Accounting Minor
-- BYUI Data Science Society Group Member
 
 ## Tools
 Competent: 
-- R         
-- Python    
-- SQL       
-- Excel
+- R <!--How am I showing this off?-->         
+- Python <!--What experience do I have? Classes. How can I get python experience?-->   
+- SQL  <!--What experience do I have? Class. How can I get SQL experience?-->     
+- Excel 
 
 Basic:
 - Power BI
@@ -44,20 +50,20 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Researched methods to automate data gathering processes using web scraping packages in R and functions to make a more efficient program
 - Prioritized tasks for different projects to get them finished before established deadlines
 
-### Delivery Driver
+### Consultant
 
 `Jan 2021 - Present`
 __Mrs. Powell's Bakery__, Rexburg, ID
 
-- Delivered fresh-baked goods and raw ingredients Monday – Saturday promptly to stores and vendors
-- Managed the maintenance of the delivery van in order to avoid preventable car troubles
-- Communicated with store managers about what goods to deliver, who will receive them, and when the items need to be delivered
+- Identified, through statistical tests, that adding a breakfast menu helped the business weather the pandemic despite a significant decrease in sales
+- Wrangled available user data into a workable format to perform a paired samples t-test, a Wilcoxon signed-rank test, and a linear regression
+- Compiled a succinct report explaining the analysis and breaking down complex statistical processes for the business owner
 
 ## Experiential Learning Projects
 
 ### Student Data Analyst
 
-`May 2021 - June 2021`
+`May 2021 - Jun 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Contributed to a report-making program which provides teachers to effectively evaluate courses that are being taught
@@ -76,15 +82,9 @@ __Mrs. Powell's Bakery__, Rexburg, ID
 - Compiled a succinct report explaining the analysis and breaking down complex statistical processes for the business owner
 
 
-## Service
-
-`2014-2016`
-__Service Missionary__, Yekaterinburg, Russia
-
-
 
 <!-- ### Footer
 
-Last updated: June 2021 -->
+Last updated: July 2021 -->
 
 
