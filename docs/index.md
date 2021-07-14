@@ -77,6 +77,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `Mar 2021 - Mar 2021`
 __Mrs. Powell's Bakery__, Rexburg, ID
 
+
 - Identified, through statistical tests, that adding a breakfast menu helped the business weather the pandemic despite a significant decrease in sales
 - Wrangled available user data into a workable format to perform a paired samples t-test, a Wilcoxon signed-rank test, and a linear regression
 - Compiled a succinct report explaining the analysis and breaking down complex statistical processes for the business owner
