@@ -6,9 +6,8 @@ title: Adam Romriell's Resume
 
 <div id="webaddress">
 <a href="adamromriell@gmail.com">adamromriell@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/adam-romriell/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/TheAdmrial">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -22,22 +21,16 @@ Try this approach to bullet points.
 
 ## Education
 
-`Expected 2022`
+`Expected Jul 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 - BS, Data Science - Accounting Minor
 
-## Tools
+<!--## Tools
 Competent: 
-- R <!--How am I showing this off?-->         
-- Python <!--What experience do I have? Classes. How can I get python experience?-->   
-- SQL  <!--What experience do I have? Class. How can I get SQL experience?-->     
-- Excel 
-
-Basic:
-- Power BI
-- Tableau
-- Microsoft Office
-
+- R <How am I showing this off?         
+- Python <What experience do I have? Classes. How can I get python experience?   
+- SQL  <What experience do I have? Class. How can I get SQL experience?     
+- Excel -->
 
 ## Work Experience
 
@@ -71,18 +64,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Coordinated with various coworkers to effectively work and produce a working product in 4 – 5 weeks
 - Reduced the amount of time to create similar reports from about 2 weeks to 2 – 3 days
 - Learned and applied officeR, an R package, to attach visuals made in R to a word document
-
-### Statistical Consultant
-
-`Mar 2021 - Mar 2021`
-__Mrs. Powell's Bakery__, Rexburg, ID
-
-
-- Identified, through statistical tests, that adding a breakfast menu helped the business weather the pandemic despite a significant decrease in sales
-- Wrangled available user data into a workable format to perform a paired samples t-test, a Wilcoxon signed-rank test, and a linear regression
-- Compiled a succinct report explaining the analysis and breaking down complex statistical processes for the business owner
-
-
 
 <!-- ### Footer
 
