@@ -52,7 +52,7 @@ __Mrs. Powell's Bakery__, Rexburg, ID
 - Wrangled available user data into a workable format to perform a paired samples t-test, a Wilcoxon signed-rank test, and a linear regression
 - Compiled a succinct report explaining the analysis and breaking down complex statistical processes for the business owner
 
-## Experiential Learning Projects
+## On-The-Job Projects
 
 ### Student Data Analyst
 
